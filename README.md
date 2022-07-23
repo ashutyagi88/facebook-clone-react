@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed Link
+
+https://facebook-clone-82d1b.web.app
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+:root {
+  --primary-color: #1b74e4;
+  --icon-color: #65676b;
+  --background-shade: #e4e6eb;
+  --background-shade-2: #f0f2f5;
+  --feed-background: #ffffff;
+  --feed-2: #eff2f5;
+  --font-fam: "Montserrat", sans-serif;
+}
+
+.App {
+  background-color: var(--background-shade-2);
+}
